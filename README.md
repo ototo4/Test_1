@@ -4,3 +4,8 @@
 
 ###### 여러분
 
+```
+pip install pandas
+
+```
+
